@@ -20,6 +20,6 @@
 
 ### 内测版
 - Android
-   - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-beta-release.apk)
+   - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
 - IOS
    - [蒲公英](https://www.pgyer.com/hwqs)
