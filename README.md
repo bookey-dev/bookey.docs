@@ -18,7 +18,7 @@
 - IOS
    - [Apple Store](https://apps.apple.com/cn/app/id1490069864)
 
-### 测试版
+### 内测版
 - Android
    - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-beta-release.apk)
 - IOS
