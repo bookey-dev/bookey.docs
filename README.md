@@ -4,7 +4,7 @@
 
 ### [Product - 产品文档](https://github.com/bookey-dev/bookey.docs/issues/1)
 
-### [Task - 任务清单](https://github.com/bookey-dev/bookey.docs/issues/2)
+### [Task - 任务清单](https://github.com/bookey-dev/bookey.docs/projects/2)
 
 ### [Test - 测试文档](https://github.com/bookey-dev/bookey.docs/issues/3)
 
