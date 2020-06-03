@@ -2,13 +2,13 @@
 
 ## Version - V1
 
-### [Release - 版本记录](https://github.com/bookey-dev/bookey.docs/issues/5)
+### [Product - 产品文档](https://github.com/bookey-dev/bookey.docs/issues/1)
 
 ### [Task - 任务清单](https://github.com/bookey-dev/bookey.docs/issues/2)
 
-### [Product - 产品文档](https://github.com/bookey-dev/bookey.docs/issues/1)
-
 ### [Test - 测试文档](https://github.com/bookey-dev/bookey.docs/issues/3)
+
+### [Release - 版本记录](https://github.com/bookey-dev/bookey.docs/issues/5)
 
 --- 
 
