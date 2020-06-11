@@ -18,7 +18,12 @@
 
 #### [Test - 测试文档](https://github.com/bookey-dev/bookey.docs/issues/3)
 
-#### [Release - 版本记录](https://github.com/bookey-dev/bookey.docs/issues/5)
+<br/>
+
+## Log
+
+### [Release - 版本记录](https://github.com/bookey-dev/bookey.docs/issues/5)
+
 
 <br/>
 
