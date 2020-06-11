@@ -1,16 +1,20 @@
-# bookey.docs
+# Bookey
+
+## Plan
 
 ### [Task - 任务清单](https://github.com/bookey-dev/bookey.docs/projects/2)
 
 ### [Bug - 问题清单](https://github.com/bookey-dev/bookey.bug/issues)
 
-## Version - V1
+## Version
 
-### [Product - 产品文档](https://github.com/bookey-dev/bookey.docs/issues/1)
+### V1
 
-### [Test - 测试文档](https://github.com/bookey-dev/bookey.docs/issues/3)
+#### [Product - 产品文档](https://github.com/bookey-dev/bookey.docs/issues/1)
 
-### [Release - 版本记录](https://github.com/bookey-dev/bookey.docs/issues/5)
+#### [Test - 测试文档](https://github.com/bookey-dev/bookey.docs/issues/3)
+
+#### [Release - 版本记录](https://github.com/bookey-dev/bookey.docs/issues/5)
 
 --- 
 
