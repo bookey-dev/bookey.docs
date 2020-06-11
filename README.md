@@ -1,10 +1,14 @@
 # Bookey
 
-## Plan
+--- 
+
+## Todo
 
 ### [Task - 任务清单](https://github.com/bookey-dev/bookey.docs/projects/2)
 
 ### [Bug - 问题清单](https://github.com/bookey-dev/bookey.bug/issues)
+
+--- 
 
 ## Version
 
