@@ -32,6 +32,7 @@
 ### 正式版
 - Android
    - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
+   - [apk](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-release.apk)
 - IOS
    - [Apple Store](https://apps.apple.com/cn/app/id1490069864)
 
