@@ -38,7 +38,7 @@
 ### 内测版
 - Android
    - [Google Play](https://play.google.com/apps/internaltest/4700196513230198982)
-   - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-release.apk)
+   - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
 - IOS
    - [蒲公英](https://www.pgyer.com/hwqs)
    
