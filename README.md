@@ -14,7 +14,7 @@
 
 ## Download
 
-应用商店
+### 应用商店
 
 - Android
    - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
@@ -23,7 +23,7 @@
    - [Apple Store](https://apps.apple.com/cn/app/id1490069864)
    - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
 
-安装包
+### 安装包
 
 - Android
    - [生产环境](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
