@@ -1,6 +1,6 @@
 ## Bookey
 
-### Log
+### TODO
 
 - [Task - 任务清单](https://github.com/bookey-dev/bookey.docs/projects/2)
 - [Bug - 问题清单](https://github.com/bookey-dev/bookey.bug/issues)
@@ -8,7 +8,7 @@
 - [Release - 版本记录](https://github.com/bookey-dev/bookey.docs/issues/5)
 - [Test - 测试文档](https://github.com/bookey-dev/bookey.docs/issues/3)
 
-### Download
+### DOWNLOAD
 
 ```应用商店```
 - Android
