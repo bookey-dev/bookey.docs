@@ -8,7 +8,9 @@
 - [Release - 版本记录](https://github.com/bookey-dev/bookey.docs/issues/5)
 - [Test - 测试文档](https://github.com/bookey-dev/bookey.docs/issues/3)
 
-### 应用商店
+### Download
+
+应用商店
 
 - Android
    - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
@@ -17,17 +19,13 @@
    - [Apple Store](https://apps.apple.com/cn/app/id1490069864)
    - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
 
-### 安装包
+安装包
 
-- 生产环境
-  - Android
-    - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
-  - IOS
-    - [蒲公英](https://www.pgyer.com/hwqs)
-- 开发环境
-  - Android
-    - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk)
-  - IOS
-    - ？
+- Android
+   - [生产环境](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
+   - [开发环境](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk)
+- IOS
+   - [生产环境](https://www.pgyer.com/hwqs)
+   - 开发环境 - ?
 
 
