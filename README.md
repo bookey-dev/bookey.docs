@@ -32,12 +32,12 @@
 ### 应用商店
 - Android
    - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
-   - [Google Play - 内测版](https://play.google.com/apps/internaltest/4700196513230198982)
+   - [Internaltest](https://play.google.com/apps/internaltest/4700196513230198982)
 - IOS
    - [Apple Store](https://apps.apple.com/cn/app/id1490069864)
    - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
 
-### 环境包
+### 其他
 
 - 生产环境
   - Android
