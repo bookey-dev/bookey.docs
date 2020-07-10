@@ -1,18 +1,12 @@
 ## Bookey
 
-### Todo
+### Log
 
 - [Task - 任务清单](https://github.com/bookey-dev/bookey.docs/projects/2)
 - [Bug - 问题清单](https://github.com/bookey-dev/bookey.bug/issues)
 
-### Version
-
-- [Product - 产品文档](https://github.com/bookey-dev/bookey.docs/issues/1)
-
-- [Test - 测试文档](https://github.com/bookey-dev/bookey.docs/issues/3)
-
-### Log
 - [Release - 版本记录](https://github.com/bookey-dev/bookey.docs/issues/5)
+- [Test - 测试文档](https://github.com/bookey-dev/bookey.docs/issues/3)
 
 ### Download
 
@@ -24,7 +18,7 @@
    - [Apple Store](https://apps.apple.com/cn/app/id1490069864)
    - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
 
-```内部渠道```=
+```内部渠道```
 - 生产环境
   - Android
     - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
