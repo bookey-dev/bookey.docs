@@ -29,20 +29,26 @@
 
 ## Download
 
-### 正式版
+### 应用商店
 - Android
    - [Google Play](https://play.google.com/store/apps/details?id=app.bookey)
+   - [Google Play - 内测版](https://play.google.com/apps/internaltest/4700196513230198982)
 - IOS
    - [Apple Store](https://apps.apple.com/cn/app/id1490069864)
+   - [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664)
 
-### 内测版
-- Android
-   - [Google Play](https://play.google.com/apps/internaltest/4700196513230198982)
-   - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
-- IOS
-   - [蒲公英](https://www.pgyer.com/hwqs)
-   
-### 开发版
+### 环境包
 
-- Android
-   - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk)
+- 生产环境
+  - Android
+    - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
+  - IOS
+    - [蒲公英](https://www.pgyer.com/hwqs)
+
+- 开发环境
+  - Android
+    - [APK](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk)
+  - IOS
+    - ？
+
+
