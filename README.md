@@ -26,10 +26,10 @@
 ### 安装包
 
 - Android
-   - [生产环境](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
-   - [开发环境](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk)
+   - [prod - 生产环境包](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
+   - [dev - 开发环境包](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk)
 - IOS
-   - [生产环境](https://www.pgyer.com/hwqs)
-   - 开发环境 - ?
+   - [prod - 生产环境包](https://www.pgyer.com/hwqs)
+   - dev - 开发环境包 - ?
 
 
