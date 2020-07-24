@@ -25,10 +25,15 @@
 ### 安装包
 
 - Android
-   - [prod - 生产环境包](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk) - pinpoint
-   - [dev - 开发环境包](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk) - pinpoint-dev
+   - [prod - 生产环境](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
+   - [dev - 开发环境](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk)
 - IOS
-   - [prod - 生产环境包](https://www.pgyer.com/hwqs)
-   - dev - 开发环境包 - ?
+   - [prod - 生产环境](https://www.pgyer.com/hwqs)
+   - dev - 开发环境 - ?
 
+***注意：关于 pinpoint***
+
+生产环境下集成的是 pinpoint
+
+开发环境下集成的是 pinpoint-dev
 
