@@ -25,8 +25,8 @@
 ### 安装包
 
 - Android
-   - [prod - 生产环境包](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
-   - [dev - 开发环境包](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk)
+   - [prod - 生产环境包](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk) - pinpoint
+   - [dev - 开发环境包](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk) - pinpoint-dev
 - IOS
    - [prod - 生产环境包](https://www.pgyer.com/hwqs)
    - dev - 开发环境包 - ?
