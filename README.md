@@ -6,7 +6,7 @@
 
 - [Task - 任务清单](https://github.com/bookey-dev/bookey.docs/projects/2)
 - [Bug - 问题清单](https://github.com/bookey-dev/bookey.bug/issues)
-- [Version - 版本计划](https://github.com/bookey-dev/bookey.docs/wiki/Version)
+- [Version - 版本管理](https://github.com/bookey-dev/bookey.docs/wiki/Version)
 
 ### LOG
 
