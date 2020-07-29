@@ -9,7 +9,7 @@
 
 ### PLAN
 
-- [Requirement - 需求管理](https://github.com/bookey-dev/bookey.requirement/issues)
+- [Requirement - 需求管理](https://github.com/bookey-dev/bookey.requirement)
 - [Version - 版本管理](https://github.com/bookey-dev/bookey.requirement/wiki)
 
 ### LOG
