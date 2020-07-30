@@ -34,7 +34,7 @@
    - [dev - 开发环境](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk)
 - IOS
    - [prod - 生产环境](https://www.pgyer.com/hwqs)
-   - dev - 开发环境 - ?
+   - [dev - 开发环境](https://www.pgyer.com/hwqs)
 
 ***注意：关于 pinpoint***
 
