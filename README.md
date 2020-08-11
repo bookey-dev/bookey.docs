@@ -7,10 +7,10 @@
 - [Task - 任务清单](https://github.com/bookey-dev/bookey.docs/projects/2)
 - [Bug - 问题清单](https://github.com/bookey-dev/bookey.bug/issues)
 
-### PLAN
+### 看板
 
-- [Requirement - 需求面板](https://github.com/bookey-dev/bookey.requirement/projects/5)
-- [V1 - 版本面板](https://github.com/bookey-dev/bookey.requirement/projects/1)
+-[需求看板](https://github.com/bookey-dev/bookey.requirement/projects/5)
+-[版本看板](https://github.com/bookey-dev/bookey.requirement/projects/5)
 
 ### LOG
 
