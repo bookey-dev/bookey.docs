@@ -10,7 +10,7 @@
 ### PLAN
 
 - [Requirement - 需求管理](https://github.com/bookey-dev/bookey.requirement)
-- [Version - 版本管理](https://github.com/bookey-dev/bookey.requirement/issues?q=is%3Aopen+is%3Aissue+label%3Aversion)
+- [Version - 版本管理](https://github.com/bookey-dev/bookey.requirement/projects/1)
 
 ### LOG
 
