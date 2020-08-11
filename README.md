@@ -2,15 +2,19 @@
 
 ## Development
 
-### TODO
+### [Task](https://github.com/bookey-dev/bookey.docs/projects/2)
 
-- [Task - 任务清单](https://github.com/bookey-dev/bookey.docs/projects/2)
-- [Bug - 问题清单](https://github.com/bookey-dev/bookey.bug/issues)
+
+
+### BUG
+
+- [IOS](https://github.com/bookey-dev/bookey.bug/projects/1)
+- [Android](https://github.com/bookey-dev/bookey.bug/projects/2)
 
 ### 看板
 
-- [需求看板](https://github.com/bookey-dev/bookey.requirement/projects/5)
-- [版本看板](https://github.com/bookey-dev/bookey.requirement/projects/5)
+- [需求](https://github.com/bookey-dev/bookey.requirement/projects/5)
+- [版本](https://github.com/bookey-dev/bookey.requirement/projects/5)
 
 ### LOG
 
