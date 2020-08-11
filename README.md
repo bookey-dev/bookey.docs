@@ -1,6 +1,6 @@
 # Bookey
 
-## Development
+## 看板
 
 ### [Task](https://github.com/bookey-dev/bookey.docs/projects/2)
 
