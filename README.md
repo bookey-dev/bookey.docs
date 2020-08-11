@@ -9,8 +9,8 @@
 
 ### 看板
 
--[需求看板](https://github.com/bookey-dev/bookey.requirement/projects/5)
--[版本看板](https://github.com/bookey-dev/bookey.requirement/projects/5)
+- [需求看板](https://github.com/bookey-dev/bookey.requirement/projects/5)
+- [版本看板](https://github.com/bookey-dev/bookey.requirement/projects/5)
 
 ### LOG
 
