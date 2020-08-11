@@ -2,23 +2,14 @@
 
 ## Development
 
-### [Task](https://github.com/bookey-dev/bookey.docs/projects/2)
-
-
-
-### BUG
-
-- [IOS](https://github.com/bookey-dev/bookey.bug/projects/1)
-- [Android](https://github.com/bookey-dev/bookey.bug/projects/2)
-
 ### 看板
 
+- [Task](https://github.com/bookey-dev/bookey.docs/projects/2)
 - [需求](https://github.com/bookey-dev/bookey.requirement/projects/5)
 - [版本](https://github.com/bookey-dev/bookey.requirement/projects/5)
-
-### LOG
-
-- [Release - 版本记录](https://github.com/bookey-dev/bookey.docs/issues/5)
+- BUG
+  - [IOS](https://github.com/bookey-dev/bookey.bug/projects/1)
+  - [Android](https://github.com/bookey-dev/bookey.bug/projects/2)
 
 ## Download
 
