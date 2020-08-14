@@ -34,7 +34,7 @@
    - [prod - 生产环境](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-prod-release.apk)
    - [dev - 开发环境](https://wxit.oss-cn-shanghai.aliyuncs.com/apk/bookey/bookey-dev-release.apk)
 - IOS
-   - [prod - 生产环境](https://www.pgyer.com/hwqs)
+   - [prod - 生产环境](https://www.pgyer.com/o9So)
    - [dev - 开发环境](https://fir.vip/d/5zkea)
 
 ***注意：关于 pinpoint***
