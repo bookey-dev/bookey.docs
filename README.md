@@ -1,22 +1,5 @@
 # Bookey
 
-## 看板
-
-### [每周计划](https://github.com/bookey-dev/bookey.requirement/projects/6)
-
-### [需求列表](https://github.com/bookey-dev/bookey.requirement/projects/5)
-
-### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects/1)
-
-### BUG
-
-- [IOS](https://github.com/bookey-dev/bookey.bug/projects/1)
-- [Android](https://github.com/bookey-dev/bookey.bug/projects/2)
-
----
----
----
-
 ## Download
 
 ### 应用商店
@@ -43,3 +26,19 @@
 
 开发环境下集成的是 pinpoint-dev
 
+## 看板
+
+### [每周计划](https://github.com/bookey-dev/bookey.requirement/projects/6)
+
+### [需求列表](https://github.com/bookey-dev/bookey.requirement/projects/5)
+
+### [版本规划](https://github.com/bookey-dev/bookey.requirement/projects/1)
+
+### BUG
+
+- [IOS](https://github.com/bookey-dev/bookey.bug/projects/1)
+- [Android](https://github.com/bookey-dev/bookey.bug/projects/2)
+
+---
+---
+---
