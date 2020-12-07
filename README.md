@@ -2,7 +2,7 @@
 
 ## 看板
 
-### [Task](https://github.com/bookey-dev/bookey.docs/projects/2)
+### [Week Plan](https://github.com/bookey-dev/bookey.requirement/projects/6)
 
 ### [需求](https://github.com/bookey-dev/bookey.requirement/projects/5)
 
